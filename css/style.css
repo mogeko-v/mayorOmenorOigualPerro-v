@@ -1,0 +1,11 @@
+.cuerpo {
+  height: 100vh;
+}
+
+.bg-primary {
+  background-color: #0AC115 !important;
+}
+
+.btn-secondary {
+  background-color: #EC0A40 !important;
+}
